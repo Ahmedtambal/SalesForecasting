@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sales Forecasting</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="already_nhave_an_naccount">Already \nhave an \nAccount?</string>
+    <string name="new_user_register_now">New user? Register Now</string>
+    <string name="use_other_methods">Use other Methods</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="name">Name</string>
+    <string name="here_s_nyour_first_nstep_with_nus">Here’s\nyour first\nstep with \nus!</string>
+    <string name="default_web_client_id">350678277923-hj64lvqci6erp8cf852hc7h1edb36g25.apps.googleusercontent.com</string>
+    <string name="your_charts_are_loading">your charts are loading</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="join_us">Join us!</string>
+
+    <!--for facebook login-->
+
+    <!--facebook login ends-->
+
+    <!--error messages-->
+
+</resources>

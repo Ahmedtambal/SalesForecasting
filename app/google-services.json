@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350678277923",
+    "project_id": "maysam-d5206",
+    "storage_bucket": "maysam-d5206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350678277923:android:d4ed1fe80f60804a3db696",
+        "android_client_info": {
+          "package_name": "com.example.salesforecasting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGgK0pfj4WaE4diwUkfo60aiwG6H2jr9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
